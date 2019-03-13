@@ -54,3 +54,5 @@ recsys-challenge-2019-algorithm.iml
 
 trvrecsys2019/
 .vscode/
+
+*.csv
